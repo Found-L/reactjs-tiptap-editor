@@ -848,6 +848,10 @@
     "verify-commit-msg": "^0.1.0",
     "vite": "^6.4.3"
   },
+  "peerDependencies": {
+    "react": ">=18.0.0 <20.0.0",
+    "react-dom": ">=18.0.0 <20.0.0"
+  },
   "browserslist": [
     ">0.3%",
     "not ie 11",
